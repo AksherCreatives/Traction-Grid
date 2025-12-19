@@ -1,0 +1,9 @@
+
+{
+  "name": "Traction Grid - Video Content Agency",
+  "description": "A elite video-first agency specializing in high-retention short and long-form content. Built for the algorithmic era.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
